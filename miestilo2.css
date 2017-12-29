@@ -1,0 +1,25 @@
+body{
+background-color:#39363C;
+
+}
+
+h2 {
+ 	 font-family: "Avant Garde", Avantgarde, "Century Gothic", 	CenturyGothic, "AppleGothic", sans-serif;
+	background-image: url(flama.jpg);
+	
+  }
+
+h3 {
+  
+   	font: 16px "Comic Sans MS", cursive;
+	
+  }
+
+
+ hr { 
+   border-top: 3px solid #521A1A; 
+   border-bottom: 2px dashed #521A1A; 
+   border-left:none; 
+   border-right:none; 
+   height: 6px; 
+ } 
